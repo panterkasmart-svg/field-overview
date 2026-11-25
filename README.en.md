@@ -6,6 +6,8 @@ FIELD is a web application for managing field service work. It connects assignme
 
 The [FIELD product presentation, 22 slides (PDF)](FIELD-presentation-en.pdf) covers the desktop and mobile menus, field workflows, STV, appearance settings and rollout options.
 
+[Email us to request a demo or the standard version](mailto:panterka.smart@gmail.com?subject=FIELD)
+
 ## FIELD in use
 
 These screenshots come from a FIELD training environment with sample data. The mobile screens were captured in a browser at phone size. The interface shown is in Russian.
@@ -96,5 +98,7 @@ Additional modules and workflow changes are available as paid services. Options 
 ## Demo and access
 
 **The current standard version of FIELD is available free of charge for use without redistribution rights.** Contact the rights holder to obtain the standard version and its terms of use. Source code access, deployment and support are agreed separately.
+
+For demo, standard version or customization inquiries, email [panterka.smart@gmail.com](mailto:panterka.smart@gmail.com?subject=FIELD).
 
 A demo can cover a visit from assignment through report review, show what happens when connectivity drops, trace the figures behind staff earnings and produce a technical datasheet using sample measurements. For a pilot, the teams agree on roles, scenarios and acceptance criteria in advance.
