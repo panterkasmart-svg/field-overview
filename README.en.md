@@ -4,7 +4,22 @@
 
 FIELD is a web application for managing field service work. It connects assignments, sites, staff, reports and payments. Technicians receive visits on their phones, record the work they complete and submit reports. Supervisors track progress, review reports and reconcile the figures for each period. For teams that build or maintain fiber-optic networks, FIELD includes the STV measurement module.
 
-The [FIELD product presentation, 19 slides (PDF)](FIELD-presentation-en.pdf) covers the desktop and mobile menus, field workflows, STV, appearance settings and rollout options.
+The [FIELD product presentation, 22 slides (PDF)](FIELD-presentation-en.pdf) covers the desktop and mobile menus, field workflows, STV, appearance settings and rollout options.
+
+## FIELD in use
+
+These screenshots come from a FIELD training environment with sample data. The mobile screens were captured in a browser at phone size. The interface shown is in Russian.
+
+### Supervisor on Windows
+
+The reports list shows statuses. Selecting a report opens the work details on the right.
+
+[![FIELD supervisor workspace on Windows](screens/supervisor-desktop.png)](screens/supervisor-desktop.png)
+
+| Supervisor on a phone | Field employee on a phone |
+| --- | --- |
+| Reviews team reports and approves them or sends them back for clarification. | Sees assigned visits, opens visit details, checks in, adds photos and prepares reports. |
+| <a href="screens/supervisor-mobile.png"><img src="screens/supervisor-mobile.png" width="310" alt="Team reports in the FIELD mobile supervisor interface"></a> | <a href="screens/technician-mobile.png"><img src="screens/technician-mobile.png" width="310" alt="Today’s visits in the FIELD mobile employee interface"></a> |
 
 ## Who it’s for
 
@@ -80,6 +95,6 @@ Additional modules and workflow changes are available as paid services. Options 
 
 ## Demo and access
 
-Demo access and terms of use can be arranged with the rights holder. Source code access, deployment and support are agreed separately.
+**The current standard version of FIELD is available free of charge for use without redistribution rights.** Contact the rights holder to obtain the standard version and its terms of use. Source code access, deployment and support are agreed separately.
 
 A demo can cover a visit from assignment through report review, show what happens when connectivity drops, trace the figures behind staff earnings and produce a technical datasheet using sample measurements. For a pilot, the teams agree on roles, scenarios and acceptance criteria in advance.
